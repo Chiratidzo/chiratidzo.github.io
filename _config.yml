@@ -1,11 +1,11 @@
-### your site title here
+### Chiratidzo Matowe Portfolio
 
-title: Your Name
+title: Chiratidzo Matowe
 description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: https://chiratidzo.github.io/
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: rattisie@gmail.com
 
 # Pagination
 paginate: 4
